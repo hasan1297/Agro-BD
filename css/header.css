@@ -1,0 +1,15 @@
+header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+.navbar {
+  padding: 24px 190px 24px 90px;
+}
+.navbar-nav {
+  margin-left: auto;
+  font-size: 18px;
+}
+.bg-light {
+  background-color: #e0fbcdad !important;
+}
